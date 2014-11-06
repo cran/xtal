@@ -1,0 +1,16 @@
+exportPattern("^[[:alpha:]]+")
+exportMethods(
+    "design2Screen",
+    "getCondition",
+    "getOptimal",
+    "screenCsv",
+    "writeTecan" 
+)
+exportClasses(
+    "Design",
+     "Design8Vertex",
+     "Exp",
+     "Screen" 
+)
+
+import(methods, graphics, grDevices, stats, utils)
