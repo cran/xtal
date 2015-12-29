@@ -1,7 +1,7 @@
-e3c4c4845c03c3e6bd319d2be530e78e *DESCRIPTION
+2a5d6a0eb0677c3d5c405e4b6588b5a3 *DESCRIPTION
 4f72c85d99b8855af7bc41dd1e1ec89e *NAMESPACE
 89377e241d640285ca457d1c7f97f0cc *R/Design.R
-3619fe446391e78dcee71150860f1f2f *R/Design8Vertex.R
+714feda83438b8056708038073517fd3 *R/Design8Vertex.R
 24ba953a1ceba22cb135cb782ab342df *R/Exp.R
 d0aee2bccbe2799f9fcc4fd2e4159912 *R/Screen.R
 f4d7cca0f812e96b91ad843151d0574d *man/Design-class.Rd
@@ -20,4 +20,4 @@ e561308c61e923667f5239be68e857cc *man/screen.Rd
 21f9828cdbb7140380fa92ed3ebf4cd9 *man/screenCsv.Rd
 2a50cd923a8763d1ae96423541ff6076 *man/writeTecan-methods.Rd
 56fba9dccecc209bf8432426be43af62 *man/writeTecan.Rd
-9c4bbde783dadb08373bf1e2834277db *man/xtal-package.Rd
+dd222569c09fc6412fc1c602b6520d50 *man/xtal-package.Rd

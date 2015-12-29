@@ -9,7 +9,7 @@ setClass(Class='Design8Vertex',
 )
 
 design8Vertex=function(volume,stock,dim){
-	portion=array(dim=c(12,8,8),dimnames=c('col','row','vertex'))
+	portion=array(dim=c(12,8,8),dimnames=list(col=c(1:12),row=LETTERS[1:8],vertex=c(1:8)))
 	portion[1:6,1,1]=dim[[1]]
 	portion[1,1:4,1]=dim[[2]]
 	portion[1:6,1:4,1]=portion[1:6,1,1]%o%portion[1,1:4,1]
